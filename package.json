@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-infojobs",
+  "version": "1.0.0",
+  "description": "A discord bot using Infojobs API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "infojobs",
+    "bot",
+    "discord"
+  ],
+  "author": "fedeperin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "mongoose": "^7.2.1",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}

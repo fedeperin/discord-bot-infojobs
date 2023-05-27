@@ -26,4 +26,4 @@ Para conocer la lista de comandos, corra el comando de /comandos.
 Para agregarlo a un servidor hay que primero llenar los datos del .env, siguiendo el .env.example.  
 También hay que crear un canal y un rol para cada una de las categorías de notificaciónes.  
 A cada canal, hay que no dejar mandar mensajes, y permitir entrar solo a los del rol asignado.  
-Después, en `consts.js`, hay que cambiar los `channelID` y `roleID` para cada categría en la constante `categories`
+Después, en `consts.js`, hay que cambiar los `channelID` y `roleID` para cada categoría en la constante `categories`

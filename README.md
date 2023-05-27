@@ -1,5 +1,5 @@
 # Infojobs Discord Bot 🤖
-Un bot de Discord que permite buscar trabajos y recibir notificaciónes de ofertas de trabajo personalizadas.  
+Un bot de Discord que permite buscar trabajos y recibir notificaciones de ofertas de trabajo personalizadas.  
 Usando [Discord.JS](https://discord.js.org/) y la [API de Infojobs](https://developer.infojobs.net/)  
 Para probarlo se puede entrar al [servidor de prueba](https://discord.gg/b8Z7vD5bAH)  
 

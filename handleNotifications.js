@@ -20,7 +20,9 @@ export default async () => {
         
             const data = await res.json()
             let { items } = data
-    
+            
+            if(!items) return
+
             items = items.map(item => item.id)
             const foundItem = await Category.findOne({ name: categ.value })
     

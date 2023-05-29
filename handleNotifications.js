@@ -45,5 +45,5 @@ export default async () => {
             foundItem.offers = items
             foundItem.save()
         })
-    }, 3 * 60 * 1000)
+    }, 10 * 60 * 1000)
 }
